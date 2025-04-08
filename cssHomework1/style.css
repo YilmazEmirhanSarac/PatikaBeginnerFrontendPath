@@ -1,0 +1,49 @@
+body {
+    margin: 0;
+    padding: 1rem;
+    text-align: center;
+}
+
+.headerHeading {
+    font-size: 2em;
+    color: red;
+    margin-top: 20px;
+}
+
+header nav a {
+    padding: 0rem 0.5rem;
+}
+
+header h2 {
+    font-size: 1.5em;
+    color: purple;
+}
+
+.homeUL {
+    list-style-position: inside;
+}
+
+/* About us */
+
+.heroSectionAboutUs {
+    text-align: left;
+}
+
+.heroHeader {
+    color: yellow;
+}
+
+/* Products */
+
+.priceSpan {
+    font-weight: 800;
+}
+
+.productsOL {
+    list-style-position: inside;
+}
+
+section ol li img {
+    width: 200px;
+    height: 300px;
+}
