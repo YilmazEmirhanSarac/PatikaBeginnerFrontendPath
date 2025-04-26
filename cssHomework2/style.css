@@ -1,0 +1,79 @@
+body {
+    margin: 0;
+    padding: 0;
+}
+
+p,a {
+    margin: 0;
+    padding: 0;
+}
+
+
+.logo {
+    display: block;
+    margin: auto;
+    margin-bottom: 0;
+    padding-top: 0.5rem;
+}
+
+.searchSection {
+    width: 88.75%;
+    margin: auto;
+    margin-top: 0;
+    text-align: center;
+    background-color: #EEEEEE;
+    padding-bottom: 1.3rem;
+}
+
+.secondSection {
+    width: 88.75%;
+    margin: auto;
+    margin-top: 0;
+    text-align: center;
+    display: flex;
+    padding-top: 2px;
+    gap: 2px;
+    
+}
+
+.firstDiv {
+    width: 37%;
+    background-color: #7EE5DA;
+    padding: 0.5rem 0;
+}
+
+.secondDiv {
+    width: 22%;
+    background-color: #70CCC2;
+    font-size: small;
+    padding: 0.25rem 0;
+}
+
+.thirdDiv {
+    width: 41%;
+    background-color: #62B3AA;
+    font-size: small;
+}
+
+input {
+    width: 18rem;
+    color: black;
+}
+
+.thirdDiv input {
+    width: 9rem;
+}
+
+.thirdDiv button {
+    margin-right: 10px;
+}
+
+.thirdDiv input::placeholder {
+    color: black;
+}
+
+.footer {
+    text-align: center;
+    padding-top: 1rem;
+    font-size: small;
+}
